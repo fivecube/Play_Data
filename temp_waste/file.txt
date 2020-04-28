@@ -1,0 +1,427 @@
+[{'x': 0        974.580338
+7      29796.048340
+8       1391.253792
+18      1713.778686
+24      4959.114854
+55     39724.978670
+58      2452.210407
+59      3540.651564
+60     11605.714490
+61      4471.061906
+63     25523.277100
+66     31656.068060
+67      4519.461171
+69      1593.065480
+70     23348.139730
+71     47306.989780
+72     10461.058680
+78     12451.655800
+83      3095.772271
+87       944.000000
+89      1091.359778
+96     22316.192870
+97      2605.947580
+101     3190.481016
+109    21654.831940
+113    47143.179640
+119     3970.095407
+124     4184.548089
+125    28718.276840
+127     7458.396327
+137     2441.576404
+138     3025.349798
+139     2280.769906
+Name: gdp per capita, dtype: float64, 'y': 0      43.828
+7      75.635
+8      64.062
+18     59.723
+24     72.961
+55     82.208
+58     64.698
+59     70.650
+60     70.964
+61     59.545
+63     80.745
+66     82.603
+67     72.535
+69     67.297
+70     78.623
+71     77.588
+72     71.993
+78     74.241
+83     66.803
+87     62.069
+89     63.785
+96     75.640
+97     65.483
+101    71.688
+109    72.777
+113    79.972
+119    72.396
+124    74.143
+125    78.400
+127    70.616
+137    74.249
+138    73.422
+139    62.698
+Name: life expectancy, dtype: float64, 'text': 0             Afghanistan
+7                 Bahrain
+8              Bangladesh
+18               Cambodia
+24                  China
+55       Hong Kong, China
+58                  India
+59              Indonesia
+60                   Iran
+61                   Iraq
+63                 Israel
+66                  Japan
+67                 Jordan
+69       Korea, Dem. Rep.
+70            Korea, Rep.
+71                 Kuwait
+72                Lebanon
+78               Malaysia
+83               Mongolia
+87                Myanmar
+89                  Nepal
+96                   Oman
+97               Pakistan
+101           Philippines
+109          Saudi Arabia
+113             Singapore
+119             Sri Lanka
+124                 Syria
+125                Taiwan
+127              Thailand
+137               Vietnam
+138    West Bank and Gaza
+139           Yemen, Rep.
+Name: country, dtype: object, 'mode': 'markers', 'opacity': 0.7, 'marker': {'size': 15, 'line': {'width': 0.5, 'color': 'white'}}, 'name': 'Asia'}, {'x': 1       5937.029526
+6      36126.492700
+9      33692.605080
+12      7446.298803
+15     10680.792820
+31     14619.222720
+33     22833.308510
+34     35278.418740
+43     33207.084400
+44     30470.016700
+47     32170.374420
+49     27538.411880
+56     18008.944440
+57     36180.789190
+62     40675.996350
+64     28569.719700
+84      9253.896111
+90     36797.933320
+95     49357.190170
+102    15389.924680
+103    20509.647770
+106    10808.475610
+111     9786.534714
+114    18678.314350
+115    25768.257590
+118    28821.063700
+122    33859.748350
+123    37506.419070
+131     8458.276384
+133    33203.261280
+Name: gdp per capita, dtype: float64, 'y': 1      76.423
+6      79.829
+9      79.441
+12     74.852
+15     73.005
+31     75.748
+33     76.486
+34     78.332
+43     79.313
+44     80.657
+47     79.406
+49     79.483
+56     73.338
+57     81.757
+62     78.885
+64     80.546
+84     74.543
+90     79.762
+95     80.196
+102    75.563
+103    78.098
+106    72.476
+111    74.002
+114    74.663
+115    77.926
+118    80.941
+122    80.884
+123    81.701
+131    71.777
+133    79.425
+Name: life expectancy, dtype: float64, 'text': 1                     Albania
+6                     Austria
+9                     Belgium
+12     Bosnia and Herzegovina
+15                   Bulgaria
+31                    Croatia
+33             Czech Republic
+34                    Denmark
+43                    Finland
+44                     France
+47                    Germany
+49                     Greece
+56                    Hungary
+57                    Iceland
+62                    Ireland
+64                      Italy
+84                 Montenegro
+90                Netherlands
+95                     Norway
+102                    Poland
+103                  Portugal
+106                   Romania
+111                    Serbia
+114           Slovak Republic
+115                  Slovenia
+118                     Spain
+122                    Sweden
+123               Switzerland
+131                    Turkey
+133            United Kingdom
+Name: country, dtype: object, 'mode': 'markers', 'opacity': 0.7, 'marker': {'size': 15, 'line': {'width': 0.5, 'color': 'white'}}, 'name': 'Europe'}, {'x': 2       6223.367465
+3       4797.231267
+10      1441.284873
+13     12569.851770
+16      1217.032994
+17       430.070692
+19      2042.095240
+21       706.016537
+22      1704.063724
+26       986.147879
+27       277.551859
+28      3632.557798
+30      1544.750112
+35      2082.481567
+38      5581.180998
+40     12154.089750
+41       641.369524
+42       690.805576
+45     13206.484520
+46       752.749726
+48      1327.608910
+51       942.654211
+52       579.231743
+68      1463.249282
+73      1569.331442
+74       414.507341
+75     12057.499280
+76      1044.770126
+77       759.349910
+79      1042.581557
+80      1803.151496
+81     10956.991120
+85      3820.175230
+86       823.685621
+88      4811.060429
+93       619.676892
+94      2013.977305
+105     7670.122558
+107      863.088464
+108     1598.435089
+110     1712.472136
+112      862.540756
+116      926.141068
+117     9269.657808
+120     2602.394995
+121     4513.480643
+126     1107.482182
+128      882.969944
+130     7092.923025
+132     1056.380121
+140     1271.211593
+141      469.709298
+Name: gdp per capita, dtype: float64, 'y': 2      72.301
+3      42.731
+10     56.728
+13     50.728
+16     52.295
+17     49.580
+19     50.430
+21     44.741
+22     50.651
+26     65.152
+27     46.462
+28     55.322
+30     48.328
+35     54.791
+38     71.338
+40     51.579
+41     58.040
+42     52.947
+45     56.735
+46     59.448
+48     60.022
+51     56.007
+52     46.388
+68     54.110
+73     42.592
+74     45.678
+75     73.952
+76     59.443
+77     48.303
+79     54.467
+80     64.164
+81     72.801
+85     71.164
+86     42.082
+88     52.906
+93     56.867
+94     46.859
+105    76.442
+107    46.242
+108    65.528
+110    63.062
+112    42.568
+116    48.159
+117    49.339
+120    58.556
+121    39.613
+126    52.517
+128    58.420
+130    73.923
+132    51.542
+140    42.384
+141    43.487
+Name: life expectancy, dtype: float64, 'text': 2                       Algeria
+3                        Angola
+10                        Benin
+13                     Botswana
+16                 Burkina Faso
+17                      Burundi
+19                     Cameroon
+21     Central African Republic
+22                         Chad
+26                      Comoros
+27             Congo, Dem. Rep.
+28                  Congo, Rep.
+30                Cote d'Ivoire
+35                     Djibouti
+38                        Egypt
+40            Equatorial Guinea
+41                      Eritrea
+42                     Ethiopia
+45                        Gabon
+46                       Gambia
+48                        Ghana
+51                       Guinea
+52                Guinea-Bissau
+68                        Kenya
+73                      Lesotho
+74                      Liberia
+75                        Libya
+76                   Madagascar
+77                       Malawi
+79                         Mali
+80                   Mauritania
+81                    Mauritius
+85                      Morocco
+86                   Mozambique
+88                      Namibia
+93                        Niger
+94                      Nigeria
+105                     Reunion
+107                      Rwanda
+108       Sao Tome and Principe
+110                     Senegal
+112                Sierra Leone
+116                     Somalia
+117                South Africa
+120                       Sudan
+121                   Swaziland
+126                    Tanzania
+128                        Togo
+130                     Tunisia
+132                      Uganda
+140                      Zambia
+141                    Zimbabwe
+Name: country, dtype: object, 'mode': 'markers', 'opacity': 0.7, 'marker': {'size': 15, 'line': {'width': 0.5, 'color': 'white'}}, 'name': 'Africa'}, {'x': 4      12779.379640
+11      3822.137084
+14      9065.800825
+20     36319.235010
+23     13171.638850
+25      7006.580419
+29      9645.061420
+32      8948.102923
+36      6025.374752
+37      6873.262326
+39      5728.353514
+50      5186.050003
+53      1201.637154
+54      3548.330846
+65      7320.880262
+82     11977.574960
+92      2749.320965
+98      9809.185636
+99      4172.838464
+100     7408.905561
+104    19328.709010
+129    18008.509240
+134    42951.653090
+135    10611.462990
+136    11415.805690
+Name: gdp per capita, dtype: float64, 'y': 4      75.320
+11     65.554
+14     72.390
+20     80.653
+23     78.553
+25     72.889
+29     78.782
+32     78.273
+36     72.235
+37     74.994
+39     71.878
+50     70.259
+53     60.916
+54     70.198
+65     72.567
+82     76.195
+92     72.899
+98     75.537
+99     71.752
+100    71.421
+104    78.746
+129    69.819
+134    78.242
+135    76.384
+136    73.747
+Name: life expectancy, dtype: float64, 'text': 4                Argentina
+11                 Bolivia
+14                  Brazil
+20                  Canada
+23                   Chile
+25                Colombia
+29              Costa Rica
+32                    Cuba
+36      Dominican Republic
+37                 Ecuador
+39             El Salvador
+50               Guatemala
+53                   Haiti
+54                Honduras
+65                 Jamaica
+82                  Mexico
+92               Nicaragua
+98                  Panama
+99                Paraguay
+100                   Peru
+104            Puerto Rico
+129    Trinidad and Tobago
+134          United States
+135                Uruguay
+136              Venezuela
+Name: country, dtype: object, 'mode': 'markers', 'opacity': 0.7, 'marker': {'size': 15, 'line': {'width': 0.5, 'color': 'white'}}, 'name': 'Americas'}, {'x': 5     34435.36744
+91    25185.00911
+Name: gdp per capita, dtype: float64, 'y': 5     81.235
+91    80.204
+Name: life expectancy, dtype: float64, 'text': 5       Australia
+91    New Zealand
+Name: country, dtype: object, 'mode': 'markers', 'opacity': 0.7, 'marker': {'size': 15, 'line': {'width': 0.5, 'color': 'white'}}, 'name': 'Oceania'}]
